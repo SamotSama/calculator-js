@@ -2,8 +2,6 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: sans-serif;
-  overflow: hidden;
   font-family: "Inclusive Sans", sans-serif;
   font-family: "Raleway", sans-serif;
 }
@@ -25,7 +23,7 @@ h1 {
   align-items: center;
   justify-content: center;
   padding-top: 10vh;
-  font-size: 4.2rem;
+  font-size: 5vh;
   text-shadow: 0 0 10px #333333;
 }
 
@@ -49,7 +47,7 @@ h1 {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  margin-left: 18vh;
+  margin: auto;
 }
 
 .calculator {
