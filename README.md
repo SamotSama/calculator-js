@@ -34,5 +34,5 @@ This calculator is a web-based tool that provides essential arithmetic operation
 
 ## Author
 
-- **Alejandro Rosa**: [Portfolio](https://samotdev.vercel.app)
+- **Alejandro Rosa**: [Portfolio](https://samotsama-dev.vercel.app)
 
